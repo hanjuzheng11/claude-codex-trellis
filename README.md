@@ -26,5 +26,5 @@
 
 - `教案.html`：主要阅读材料。
 - `1.png`、`2.png`、`3.png`：最新的 Hook 信任操作截图。
-- `Trellis/`：Trellis 项目源码，供需要深入理解实现的同学参考。
+- `Trellis/`：Trellis 项目源码，供需要深入理解实现的参考。
 - `.trellis/`、`.claude/`、`.codex/`、`.agents/`：Trellis 和 AI 工具的项目配置，普通学习流程中不需要优先阅读。
