@@ -1,18 +1,10 @@
-# 成员仓库根目录放一份这个文件，名字就叫 project.yaml
-# 字段说明见下方注释，可选字段留空或删掉都行
+# 课程元数据
+name: claude/codex-trellis
+authors: [momo]
+category: LLM
+tags: [AI编程, Claude Code, Codex, 工作流]
+status: in-progress
+updated: 2026-05-22
+summary: 让 Claude Code 和 Codex 在真实项目里持续工作的实战课，配合 Trellis 项目记忆框架使用。
 
-name: claude/codex-trellis                  # 必填
-authors: [momo]       # 必填
-category: LLM                # 必填：LLM / CV / Agent / Tool / Other
-tags: [编程工作流]         # 可选
-status: done          # in-progress / done / archived
-updated: 2026-05-21          # YYYY-MM-DD
-summary: 让你的AI编程更规范,减少编程幻觉   # 必填
-
-cover: assets/cover.png      # 可选，相对仓库路径或完整 URL
-demo: https://...            # 可选
-readme: README.md            # 可选，详情页拉哪个文件，默认 README.md
-
-links:                       # 可选
-  paper: https://...
-  video: https://...
+readme: README.md
