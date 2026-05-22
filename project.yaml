@@ -2,7 +2,7 @@
 # 字段说明见下方注释，可选字段留空或删掉都行
 
 name: trellis-micu                  # 必填
-authors: [九秋]       # 必填
+authors: [momo]       # 必填
 category: LLM                # 必填：LLM / CV / Agent / Tool / Other
 tags: [编程工作流]         # 可选
 status: done          # in-progress / done / archived
